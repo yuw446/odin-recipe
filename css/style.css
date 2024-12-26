@@ -23,11 +23,11 @@ h1 {
 .steps{
     border-radius: 6px;
     overflow: hidden;
-    padding-left: 12px;
-    padding-right: 12px;
-    padding-top: 6px;
-    padding-bottom: 8px;
-    margin-bottom: 12px;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-top: .5vh;
+    padding-bottom: .75vh;
+    margin-bottom: .75vh;
 }
 
 .ingredients{
