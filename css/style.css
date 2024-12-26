@@ -1,0 +1,58 @@
+body{
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: 'Helvetica', 'Times New Roman', Times, serif;
+    font-size: 2vw;
+    line-height: 1.6;
+}
+
+img{
+    width: 100%;
+    max-width: inherit;
+    border-radius: 12px;
+    margin-bottom: 12px;
+}
+
+h1 {
+    text-align: center;
+    color: crimson;
+    font-size: 5vw;
+}
+
+.steps{
+    border-radius: 6px;
+    overflow: hidden;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 6px;
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+}
+
+.ingredients{
+    background-color: mistyrose;
+}
+
+.cooking{
+    background-color:mintcream;
+}
+
+
+.list{
+    width: 80%;
+}
+
+a{
+    font-size: 1.5vw;
+    text-decoration: none;
+}
+
+li {
+    width:fit-content;
+    background-color: rgb(255, 254, 237);
+    border-radius: 1vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    margin-bottom: 1vh;
+}
