@@ -52,7 +52,11 @@ li {
     width:fit-content;
     background-color: rgb(255, 254, 237);
     border-radius: 1vh;
+    border-color: grey;
+    border-width: 1px;
     padding-left: 2vw;
     padding-right: 2vw;
+    padding-top: 0.2vh;
+    padding-bottom: 0.2vh;
     margin-bottom: 1vh;
 }
