@@ -5,6 +5,12 @@ body{
     font-family: 'Helvetica', 'Times New Roman', Times, serif;
     font-size: 2vw;
     line-height: 1.6;
+
+    /* background image */
+    background-image: url('/resources/img/homepage_background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 img{
@@ -18,6 +24,21 @@ h1 {
     text-align: center;
     color: crimson;
     font-size: 5vw;
+}
+
+.homepage-recipe-image{
+    display: inline-block;
+    margin-top: 2vh;
+}
+
+.recipe-list{
+    margin: auto 10%;
+}
+.recipe-list li{
+    list-style: none;
+    margin-bottom: 2vh;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .steps{
